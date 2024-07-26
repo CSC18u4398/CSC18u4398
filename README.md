@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CSC18u4398
+- 👋 Hi, I’m Abdulmalik Bello Jalo, a student of Computer Science Department in Modibbo Adama University Yola
 - 👀 I’m interested in learning UI/UX
 - 🌱 I’m currently learning Photography
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects and learn new stuffs
 - 📫 How to reach me 18u4398@student.mau.edu.ng
 - ⚡ Fun fact: Watching action movies
 
